@@ -8,7 +8,7 @@ A self-learning Flappy Bird implementation using Neural Networks and Genetic Alg
 
 ## 🎮 Demo
 
-[Demo video will be added here]
+https://github.com/user-attachments/assets/e7533ff3-f453-4429-8187-5175256b9588
 
 ## ✨ Features
 
